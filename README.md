@@ -12,9 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=NexaArmaan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NexaArmaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NexaArmaan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZoODhoNzk0bXB4dTB5YW40a3oybHIxcjZxcWR4OWVrcWN5YTlkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7mMzaGDYkz4ZBziP6/giphy.gif)
 ---
 [![](https://komarev.com/ghpvc/?username=NexaArmaan&icon=8&color=0)](https://visitcount.itsvg.in)
 
