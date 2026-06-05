@@ -14,6 +14,6 @@
 
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZoODhoNzk0bXB4dTB5YW40a3oybHIxcjZxcWR4OWVrcWN5YTlkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d7mMzaGDYkz4ZBziP6/giphy.gif)
 ---
-[![](https://komarev.com/ghpvc/?username=NexaArmaan&icon=8&color=0)](https://komarev.com/ghpvc/?username=your-github-username)
+[![](https://komarev.com/ghpvc/?username=NexaArmaan&icon=8&color=red)](https://komarev.com/ghpvc/?username=your-github-username)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
